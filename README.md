@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prathmesh Patil</h1>
-<h3 align="center">I am a full stack developer working in the field of web development. I just started out learning about tech. I believe in the power of collaboration and community-driven development. Thanks for checking out my github profile.</h3>
+<h3 align="center">I am a full stack developer working in the field of web development. I believe in the power of collaboration and community-driven development. Thanks for checking out my github profile.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-woder&label=Profile%20views&color=0e75b6&style=flat" alt="coder-woder" /> </p>
 
